@@ -1,0 +1,15 @@
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\bin\Debug\Mynote.exe.config
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\bin\Debug\Mynote.exe
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\bin\Debug\Mynote.pdb
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\Mynote.csprojAssemblyReference.cache
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\MainWindow.g.cs
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\App.g.cs
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\Mynote_MarkupCompile.cache
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\Mynote_MarkupCompile.lref
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\MainWindow.baml
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\Mynote.g.resources
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\Mynote.Properties.Resources.resources
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\Mynote.csproj.GenerateResource.cache
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\Mynote.csproj.CoreCompileInputs.cache
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\Mynote.exe
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\Mynote.pdb
