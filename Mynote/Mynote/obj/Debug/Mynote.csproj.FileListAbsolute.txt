@@ -13,3 +13,8 @@ D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\Mynote.csproj.GenerateResource
 D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\Mynote.csproj.CoreCompileInputs.cache
 D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\Mynote.exe
 D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\Mynote.pdb
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\MynoteWindow1.g.cs
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\MynoteWindow1.baml
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\OneDayPage.g.cs
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\Myspace\Mynote\Mynote\Mynote\obj\Debug\OneDayPage.baml
